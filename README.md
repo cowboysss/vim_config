@@ -9,4 +9,3 @@ usually VIMPATH = "C:\Program Files (x86)\Vim"
 3. copy `colors/molokai.vim` to `%VIMPATH%\vimfiles\colors\`
 4. done!
 
-
